@@ -49,6 +49,7 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 ### Question
 
 `What is the email the threat is using?`
+
 ### Answer
 `definitelynotthegrinch@gmail.com`
 
@@ -59,6 +60,11 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 
 ### Answer
 `2023-11-27 17:27:26`
+
+### Explanation
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/2e7c143d-16d2-47af-8fd4-81d98c7eae69)
+
 
 ## Task 4
 
@@ -90,6 +96,7 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 `What is the name of the bar that Elfin offers to meet the threat actor at?`
 
 ### Answer
+
 `SnowGlobe`
 
 ## Task 8
@@ -107,6 +114,13 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 
 ### Answer
 `how to get around work security`
+
+### Explanation
+
+Google History
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/24df9af1-b05a-408e-9232-d41d5c05127b)
+
 
 ## Task 10
 
