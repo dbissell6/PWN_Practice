@@ -269,6 +269,11 @@ Oh no! Our IT admin is a bit of a cotton-headed ninny-muggins, ByteSparkle left 
 ### Answer
 `present_for_santa.zip`
 
+### Explanation
+
+![Pasted image 20231220130351](https://github.com/dbissell6/PWN_Practice/assets/50979196/a554ce08-6e5f-4430-b5bf-3ccbe79ffbed)
+
+
 ## Task 2
 
 ### Question
@@ -314,6 +319,17 @@ Oh no! Our IT admin is a bit of a cotton-headed ninny-muggins, ByteSparkle left 
 
 ### Answer
 `77.74.198.52:445`
+
+### Explanation
+
+From hybrid analysis
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/f61959d6-2757-4dcd-a694-88ee77e4064e)
+
+From wine + wireshark
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/b591bd1a-ab66-4691-91ad-3766a16d7ca7)
+
 
 ## Task 8
 
@@ -578,6 +594,11 @@ Find ransomeware(splunk_svc.dll) and encrypted files. Open malware in ghidra. No
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/eda92b76-aed1-46dc-9612-e9ddd1bd25f9)
 
 Can also see ransom note.
+
+Another clue of XOR and source.
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/e5fa5e63-30e1-43e7-a378-a0e7a8cac186)
+
 
 Decrypting in cyberchef. Can tell it worked from header.
 
