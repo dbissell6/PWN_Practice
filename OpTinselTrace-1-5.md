@@ -1,5 +1,8 @@
 # OpTinselTrace
 
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/387100e3-e261-4b9a-bb8c-4454ec3166c8)
+
+
 HTB 2023
 
 Hack The Box Sherlocks. 
