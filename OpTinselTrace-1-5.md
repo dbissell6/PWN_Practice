@@ -525,12 +525,12 @@ Google
 
 ### Explanation
 
-Ties service to executable
+Ties servicename to executable
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/76de6146-2210-49fc-a34c-11c2ae12a393)
 
 
-Search for start of service 
+Search for servicename, not created but running.
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/c4d62b5c-2c25-49c6-a392-231e5a0edf61)
 
@@ -573,7 +573,13 @@ Using chainsaw + sigma...
 
 ### Explanation
 
-Decrypting in cyberchef
+Find ransomeware(splunk_svc.dll) and encrypted files. Open malware in ghidra. Notice it is XOR.
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/eda92b76-aed1-46dc-9612-e9ddd1bd25f9)
+
+Can also see ransom note.
+
+Decrypting in cyberchef. Can tell it worked from header.
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/b88d0087-fbd2-41ca-b750-68d530d84de5)
 
