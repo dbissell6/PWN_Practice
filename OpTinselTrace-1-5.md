@@ -20,6 +20,9 @@ Hack The Box Sherlocks.
 
 
 
+The Hack The Box's Sherlock CTF challenges, collectively titled "OpTinselTrace," presented a series of digital forensics and incident response scenarios that tasked participants with investigating and mitigating a multi-faceted cyber attack on Santa's North Pole operations. Through five distinct but interconnected modules, participants navigated complex security breaches involving email communications, cloud storage, networked printers, and critical server infrastructure. The challenges required a blend of technical skills to uncover evidence of insider threats, credential compromise, lateral movement, and ransomware deployment, all orchestrated by the infamous Grinch and his accomplices.
+
+
 # OpTinselTrace-1
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/dd66259c-9c36-413e-a3dc-150c50e8b2ff)
@@ -38,6 +41,7 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 `What is the name of the email client that Elfin is using?`
 
 ### Answer
+
 `eM client`
 
 ## Task 2
@@ -544,3 +548,13 @@ You'll notice a lot of our critical server infrastructure was recently transferr
 `5828`
 
 ## Discussion
+
+## Final Reflections
+
+The "OpTinselTrace" series unfolded a narrative where the North Pole's security was under siege by a sophisticated adversary. Participants began by scrutinizing an elf named Elfin's unusual activities, including the use of eM client for suspicious communications with the Grinch. This led to the discovery of an insider threat and a compromised printer server acting as a beachhead for further attacks.
+
+As the scenario progressed, the challenges increased in complexity, revealing a deep penetration into the North Pole's digital infrastructure. The Grinch leveraged exposed S3 buckets to exfiltrate sensitive VPN configurations and employed malicious scripts to facilitate lateral movement within the network. Detailed memory analysis was required to trace the steps of the attacker, leading to the identification of malicious processes, compromised servers, and the extent of data manipulation.
+
+The capstone of the series involved a full-scale ransomware attack that encrypted critical files and disrupted the North Pole's operations. The incident response involved tracing the ransomware's execution path, determining the compromised user accounts, and unveiling the devious plans hidden within scheduled tasks. The series culminated in the participants' efforts to aid Santa in recovering from the attack, ensuring that Christmas was not doomed.
+
+Throughout the challenges, the importance of vigilance, even in the most cheerful and seemingly secure environments, was underscored. From email clients to networked printers, and from cloud storage to domain controllers, every component was a potential vulnerability. The "OpTinselTrace" series not only provided an immersive learning experience for participants but also highlighted the evolving nature of cyber threats and the critical need for comprehensive security strategies to protect against them.
