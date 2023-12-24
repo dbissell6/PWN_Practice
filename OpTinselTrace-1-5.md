@@ -34,6 +34,12 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 
 ## Abstract
 
+Given
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/210762b8-2b37-40b1-a930-a41c2b0a405c)
+
+A little annoying because i was going back between `conversations.dat` and `mail_fti.dat`.
+
 ## Task 1
 
 ### Question
@@ -43,6 +49,10 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 ### Answer
 
 `eM client`
+
+### Explanation
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/03d47c1d-364a-47d7-9515-be91918d0f37)
 
 ## Task 2
 
@@ -65,7 +75,6 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/2e7c143d-16d2-47af-8fd4-81d98c7eae69)
 
-
 ## Task 4
 
 ### Question
@@ -73,6 +82,13 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 
 ### Answer
 `elfuttin bigelf`
+
+### Explanation
+
+We can see elfuttin refered to a couple times in emails. This screenshot is nice becasue it ties a couple names to addresses.
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/800521a3-2390-4295-8812-1698733fb873)
+
 
 ## Task 5
 
@@ -90,6 +106,11 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 ### Answer
 `wendy elflower, 2023-11-28 10:00:21`
 
+### Explanation
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/2eeb0c1d-950a-4d31-8bb9-7eb0013d5565)
+
+
 ## Task 7
 
 ### Question
@@ -98,6 +119,11 @@ An elf named "Elfin" has been acting rather suspiciously lately. He's been worki
 ### Answer
 
 `SnowGlobe`
+
+### Explanation
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/88dd1739-be63-49d0-9348-a950c80b9b7a)
+
 
 ## Task 8
 
@@ -153,6 +179,10 @@ Google History
 
 ### Answer
 `C:\users\Elfin\Appdata\Roaming\top-secret`
+
+### Explantion 
+
+We saw this answering the first question.
 
 ## Task 14
 
