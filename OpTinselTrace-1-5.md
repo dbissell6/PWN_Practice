@@ -54,6 +54,104 @@ Oh no! Our IT admin is a bit of a cotton-headed ninny-muggins, ByteSparkle left 
 ## Abstract
 
 
+
+## Task 1
+
+### Question
+`What is the name of the file that is likely copied from the shared folder (including the file extension)?`
+### Answer
+`present_for_santa.zip`
+
+## Task 2
+
+### Question
+`What is the file name used to trigger the attack (including the file extension)?`
+### Answer
+`click_for_present.lnk`
+
+## Task 3
+
+### Question
+`What is the name of the file executed by click_for_present.lnk (including the file extension)?`
+
+### Answer
+`present.vbs`
+
+## Task 4
+
+### Question
+`What is the name of the program used by the vbs script to execute the next stage?`
+### Answer
+`powershell.exe`
+
+## Task 5
+
+### Question
+`What is the name of the function used for the powershell script obfuscation?`
+
+### Answer
+`WrapPresent`
+
+## Task 6
+
+### Question
+`What is the URL that the next stage was downloaded from?`
+
+### Answer
+`http://77.74.198.52/destroy_christmas/evil_present.jpg`
+
+## Task 7
+
+### Question
+`What is the IP and port that the executable downloaded the shellcode from (IP:Port)?`
+
+### Answer
+`77.74.198.52:445`
+
+## Task 8
+
+### Question
+`What is the process ID of the remote process that the shellcode was injected into?`
+
+### Answer
+`724`
+
+## Task 9
+
+### Question
+`After the attacker established a Command & Control connection, what command did they use to clear all event logs?`
+
+### Answer
+`Get-EventLog -List | ForEach-Object { Clear-EventLog -LogName $_.Log }`
+
+## Task 10
+
+### Question
+`What is the full path of the folder that was excluded from defender?`
+
+### Answer
+`C:\users\public`
+
+## Task 11
+
+### Question
+`What is the original name of the file that was ingressed to the victim?`
+
+### Answer
+`procdump.exe`
+
+## Task 12
+
+### Question
+`What is the name of the process targeted by procdump.exe?`
+
+### Answer
+`lsass.exe`
+
+
+## Discussion
+
+
 # OpTinselTrace-4
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/0dd0e014-56c4-42b3-a789-de449ea32f48)
