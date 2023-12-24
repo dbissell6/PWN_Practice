@@ -7,6 +7,15 @@ HTB 2023
 
 Hack The Box Sherlocks. 
 
+
+[OpTinselTrace-1][https://github.com/dbissell6/PWN_Practice/blob/main/OpTinselTrace-1-5.md#optinseltrace-1]
+[OpTinselTrace-2][https://github.com/dbissell6/PWN_Practice/blob/main/OpTinselTrace-1-5.md#optinseltrace-2]
+[OpTinselTrace-3][https://github.com/dbissell6/PWN_Practice/blob/main/OpTinselTrace-1-5.md#optinseltrace-3]
+[OpTinselTrace-4][https://github.com/dbissell6/PWN_Practice/blob/main/OpTinselTrace-1-5.md#optinseltrace-4]
+[OpTinselTrace-5][https://github.com/dbissell6/PWN_Practice/blob/main/OpTinselTrace-1-5.md#optinseltrace-5]
+
+
+
 # OpTinselTrace-1
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/dd66259c-9c36-413e-a3dc-150c50e8b2ff)
