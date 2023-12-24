@@ -492,6 +492,17 @@ You'll notice a lot of our critical server infrastructure was recently transferr
 ### Answer 1
 `CVE-2020-1472`
 
+### Explanation
+
+Using chainsaw + sigma... see mimikatz
+
+![Pasted image 20231223122056](https://github.com/dbissell6/PWN_Practice/assets/50979196/e30612d7-efd5-44c4-b5bb-13ccbb57c23f)
+
+Google
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/51241ecc-e3ff-442a-96c8-a2d637f268fe)
+
+
 ## Task 2
 `What time did the TA initially exploit the CVE? (UTC)`
 
@@ -512,12 +523,32 @@ You'll notice a lot of our critical server infrastructure was recently transferr
 
 `2023-12-13 09:24:24`
 
+### Explanation
+
+Ties service to executable
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/76de6146-2210-49fc-a34c-11c2ae12a393)
+
+
+Search for start of service 
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/c4d62b5c-2c25-49c6-a392-231e5a0edf61)
+
+
 ## Task 5
 `What was the TA's IP address within our internal network?`
 
 ### Answer 5
 
 `192.168.68.200`
+
+### Explanation
+
+Using chainsaw + sigma...
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/f451e83d-af34-4ffb-a341-119819827f4e)
+
+
 
 ## Task 6
 `Please list all user accounts the TA utilised during their access. (Ascending order)`
@@ -540,12 +571,31 @@ You'll notice a lot of our critical server infrastructure was recently transferr
 
 `Unicorn`
 
+### Explanation
+
+Decrypting in cyberchef
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/b88d0087-fbd2-41ca-b750-68d530d84de5)
+
+Looking at pdf
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/318d46d6-c892-4f4b-8525-5aa77837a775)
+
+
 ## Task 9
 `Please confirm the process ID of the process that encrypted our files.`
 
 ### Answer 9
 
 `5828`
+
+### Explanation
+
+Search for the process that encrypted the files by focusing on and searching for the file extentsion.
+
+![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/ae80e8dc-a645-40d6-848a-7e6f90b73573)
+
+
 
 ## Discussion
 
