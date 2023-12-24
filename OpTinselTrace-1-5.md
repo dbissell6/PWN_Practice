@@ -648,7 +648,7 @@ Decrypting in cyberchef. Can tell it worked from header.
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/b88d0087-fbd2-41ca-b750-68d530d84de5)
 
-Looking at pdf
+Looking at png
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/318d46d6-c892-4f4b-8525-5aa77837a775)
 
