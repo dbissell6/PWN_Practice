@@ -42,6 +42,80 @@ It seems our precious technology has been leaked to the threat actor. Our head E
 
 ## Abstract
 
+## Task 1
+
+### Question
+`What is the MD5 sum of the binary the Threat Actor found the S3 bucket location in?`
+
+### Answer
+`62d5c1f1f9020c98f97d8085b9456b05`
+
+## Task 2
+
+### Question
+`What time did the Threat Actor begin their automated retrieval of the contents of our exposed S3 bucket?`
+
+### Answer
+`2023-11-29 08:24:07`
+
+## Task 3
+
+### Question
+`What time did the Threat Actor complete their automated retrieval of the contents of our exposed S3 bucket?`
+
+### Answer
+`2023-11-29 08:24:16`
+
+## Task 4
+
+### Question
+`Based on the Threat Actor's user agent - what scripting language did the TA likely utilise to retrieve the files?`
+
+### Answer
+`python`
+
+## Task 5
+
+### Question
+`Which file did the Threat Actor locate some hard coded credentials within?`
+
+### Answer
+`claus.py`
+
+## Task 6
+
+### Question
+`Please detail all confirmed malicious IP addresses. (Ascending Order)`
+
+### Answer
+`45.133.193.41, 191.101.31.57`
+
+## Task 7
+
+### Question
+`We are extremely concerned the TA managed to compromise our private S3 bucket, which contains an important VPN file. Please confirm the name of this VPN file and the time it was retrieved by the TA.`
+
+### Answer
+`bytesparkle.ovpn, 2023-11-29 10:16:53`
+
+## Task 8
+
+### Question
+`Please confirm the username of the compromised AWS account?`
+
+### Answer
+`elfadmin`
+
+## Task 9
+
+### Question
+`Based on the analysis completed Santa Claus has asked for some advice. What is the ARN of the S3 Bucket that requires locking down?`
+
+### Answer
+`arn:aws:s3:::papa-noel`
+
+## Discussion
+
 # OpTinselTrace-3
 
 ![image](https://github.com/dbissell6/PWN_Practice/assets/50979196/271c475d-d7b2-4c1c-833c-7c186fcb65e3)
